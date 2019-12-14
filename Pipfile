@@ -4,10 +4,9 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-Django = "*"
-django-grappelli = "*"
 djangorestframework = "*"
 psycopg2-binary = "*"
+django = "*"
 
 [dev-packages]
 django-extensions = "*"
