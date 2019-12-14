@@ -43,6 +43,6 @@ Papyrus propõe uma mudança de paradigma, de forma que os usuários não sejam 
 #### 10 de Dezembro 2019
 *   Desenvolvimento das camadas models, views e API com django rest framework. Personalização da ferramenta de Administração com django grappelli
 
-### 12 de Dezembro 2019
+#### 12 de Dezembro 2019
 *   Remoção do Grappelli da interface Admin. Foram feitos testes com o bootstrapped, porém houve incompatibilidade com a versão atual do Django
 
