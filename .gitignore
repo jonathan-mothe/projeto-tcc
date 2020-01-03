@@ -1,4 +1,2 @@
 .env
-.papyrus/__pycache__/
-.repositorio/__pycache__/
-.repositorio/migrations/__pycache__/
+__pycache__/
