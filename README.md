@@ -38,7 +38,6 @@ Papyrus propõe uma mudança de paradigma, de forma que os usuários não sejam 
 
 
 
-###                         Etapas do desenvolvimento
 
 
 
