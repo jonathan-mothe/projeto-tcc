@@ -25,7 +25,7 @@ routers.register(r'users', views.UserViewSet)
 routers.register(r'trabalho', views.TrabalhoList)
 
 urlpatterns = [
-#    path('grappelli/', include('grappelli.urls')), # grappelli URLS
+    path('jet/', include('jet.urls', 'jet')), # jet URLS
     path('admin/', admin.site.urls),
     path('', include(routers.urls)),
     path('api-auth/', include('rest_framework.urls', namespace='rest_framework')),
