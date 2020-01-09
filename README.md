@@ -1,5 +1,5 @@
-#                                               Papyrus
-###                           Repositório de trabalhos acadêmicos (em construção)
+#   Papyrus
+###     Repositório de trabalhos acadêmicos (em construção)
 
 
 ######    Trabalho apresentado na disciplina de Projeto TCC EM SISTEMAS DE INFORMAÇÃO da Universidade Estácio de Sá, como requisito parcial para obtenção do grau de Bacharel em Sistemas de Informação.
