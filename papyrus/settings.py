@@ -106,6 +106,7 @@ AUTH_PASSWORD_VALIDATORS = [
     },
 ]
 
+JET_DEFAULT_THEME = 'light-violet'
 
 # Internationalization
 # https://docs.djangoproject.com/en/3.0/topics/i18n/

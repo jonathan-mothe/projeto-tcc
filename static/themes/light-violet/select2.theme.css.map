@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA;;;GAGG;AAEH;;GAEG;AAeH;;GAEG;AAmCH;;GAEG;AAqBH;;GAEG;AAeH;;GAEG;AAkBH;;GAEG;AAmBH;;GAEG;AASH;;GAEG;AASH;;GAEG;AAyBH;;GAEG;AC9LK,8CAAmC",
+"sources": ["_variables.scss","select2.theme.scss"],
+"names": [],
+"file": "select2.theme.css"
+}
