@@ -106,8 +106,6 @@ AUTH_PASSWORD_VALIDATORS = [
     },
 ]
 
-JET_DEFAULT_THEME = 'light-violet'
-
 # Internationalization
 # https://docs.djangoproject.com/en/3.0/topics/i18n/
 
@@ -129,4 +127,6 @@ STATIC_URL = '/static/'
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 MEDIA_URL = '/media/'
 
+STATICFILES_DIRS = [ os.path.join(BASE_DIR, 'static') ]
 
+JET_DEFAULT_THEME = 'white'
