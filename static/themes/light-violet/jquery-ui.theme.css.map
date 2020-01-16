@@ -1,7 +1,0 @@
-{
-"version": 3,
-"mappings": "AAAA;;;GAGG;AAEH;;GAEG;AAeH;;GAEG;AAmCH;;GAEG;AAqBH;;GAEG;AAeH;;GAEG;AAkBH;;GAEG;AAmBH;;GAEG;AASH;;GAEG;AASH;;GAEG;AAyBH;;GAEG;AC9LK,gDAAqC",
-"sources": ["_variables.scss","jquery-ui.theme.scss"],
-"names": [],
-"file": "jquery-ui.theme.css"
-}

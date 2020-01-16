@@ -1,7 +1,0 @@
-{
-"version": 3,
-"mappings": "AAAA;;;GAGG;AAEH;;GAEG;AAeH;;GAEG;AAmCH;;GAEG;AAqBH;;GAEG;AAeH;;GAEG;AAkBH;;GAEG;AAmBH;;GAEG;AASH;;GAEG;AASH;;GAEG;AAyBH;;GAEG;AC9LK,qCAA0B",
-"sources": ["_variables.scss","base.scss"],
-"names": [],
-"file": "base.css"
-}
