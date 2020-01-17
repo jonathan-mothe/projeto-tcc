@@ -129,4 +129,4 @@ MEDIA_URL = '/media/'
 
 STATICFILES_DIRS = [ os.path.join(BASE_DIR, 'static') ]
 
-JET_DEFAULT_THEME = 'white'
+JET_DEFAULT_THEME = 'light-gray'
