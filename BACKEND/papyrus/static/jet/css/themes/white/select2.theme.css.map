@@ -1,7 +1,0 @@
-{
-"version": 3,
-"mappings": "AAAA;;;GAGG;AAEH;;GAEG;AAeF;;EAEE;AAmCH;;GAEG;AAqBF;;GAEG;AAeH;;EAEE;AAkBH;;GAEG;AAmBF;;GAEG;AASH;;GAEG;AASH;;GAEG;AAyBH;;GAEG;AC9LI,uCAA4B",
-"sources": ["_variables.scss","select2.theme.scss"],
-"names": [],
-"file": "select2.theme.css"
-}
