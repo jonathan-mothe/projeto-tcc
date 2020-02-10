@@ -5,3 +5,4 @@ repositorio/migrations/__pycache__/
 .sass-cache
 papyrus/static/
 frontend/node_modules
+frontend/build
