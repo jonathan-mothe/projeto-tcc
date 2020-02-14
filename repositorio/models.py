@@ -11,6 +11,9 @@ class Autor(models.Model):
     def __str__(self):
         return self.ultimoNome + ' ' + self.nome
 
+    class Meta:
+        verbose_name_plural = 'Autores'
+
 class Aluno(Autor):
 
     def __str__(self):
@@ -20,6 +23,9 @@ class Professor(Autor):
 
     def __str__(self):
         return self.ultimoNome + ' ' + self.nome
+
+    class Meta:
+        verbose_name_plural = 'Professores'
 
 class Curso(models.Model):
     nome = models.CharField(max_length=30, verbose_name='Nome do Curso')
@@ -37,6 +43,9 @@ class Campus(models.Model):
 
     def __str__(self):
         return self.nome + '('+self.sigla+')'
+
+    class Meta:
+        verbose_name_plural = 'Campus'
 
 class TipoTrabalho(models.Model):
     nome = models.CharField(max_length=100, verbose_name='Nome')
