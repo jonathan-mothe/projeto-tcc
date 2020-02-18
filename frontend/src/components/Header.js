@@ -5,10 +5,15 @@ export default class Header extends React.Component{
         return(
             <div className="navmenu">
                 <div id="menu">
-                <a href="http://localhost:3000/">Home</a>
+                    <a href="http://localhost:3000/">Home</a>
 
-                <div id="sobre">
-                    <a href="http://localhost:3000/sobre">Sobre</a></div>
+                    <div id="sobre">
+                        <a href="http://localhost:3000/sobre">Sobre</a>
+                    </div>
+
+                    <div id="source">
+                        <a href="https://github.com/jonathan-mothe/projeto-tcc" target="blank">Código Fonte</a>
+                    </div>
                 </div>
                 
                 <div id="login">

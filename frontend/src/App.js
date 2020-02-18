@@ -1,6 +1,6 @@
 import React from 'react';
-import Header from './Header';
-import Sobre from './Sobre';
+import Header from './components/Header';
+import Sobre from './components/Sobre';
 import './App.css';
 
 export default class App extends React.Component{
