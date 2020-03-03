@@ -2,6 +2,7 @@ import React from 'react';
 import Header from './components/Header';
 import Sobre from './components/Sobre';
 import './App.css';
+import Conteudo from './components/Conteudo';
 
 export default class App extends React.Component{
     render(){
@@ -9,6 +10,7 @@ export default class App extends React.Component{
             <div>
                 <Header />
                 <Sobre />
+                <Conteudo />
             </div>
         );
     }
