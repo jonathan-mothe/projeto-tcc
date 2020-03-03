@@ -3,7 +3,12 @@ import React from 'react';
 export default class Conteudo extends React.Component{
     render(){
         return(
-            <main className="container">
+            <main className="content">
+				<section>
+					<div id="logo">
+						<h1>LOGO</h1>
+					</div>
+				</section>
                 <section class="container">
 				<table>
 					<thead>
