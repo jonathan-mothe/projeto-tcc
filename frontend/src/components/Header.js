@@ -19,8 +19,9 @@ export default class Header extends React.Component{
                 <div id="login">
                     <a href="http://127.0.0.1:8000/admin">Login</a>
                 </div>
-
+                
             </div>
+
 
         );
     }
