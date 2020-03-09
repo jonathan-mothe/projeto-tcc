@@ -1,16 +1,16 @@
 import React from 'react';
+import Menu from './components/Menu';
 import Header from './components/Header';
 import Sobre from './components/Sobre';
 import './App.css';
 import Conteudo from './components/Conteudo';
-import Logo from './components/Logo';
 
 export default class App extends React.Component{
     render(){
         return(
             <div>
+                <Menu />
                 <Header />
-                <Logo />
                 <Sobre />
                 <Conteudo />
             </div>

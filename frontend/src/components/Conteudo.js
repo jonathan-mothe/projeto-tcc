@@ -8,48 +8,20 @@ export default class Conteudo extends React.Component{
                     <div class="lista">
                         <h3>Trabalhos de Conclusão de Curso</h3>
                     </div>
-
-                    <div class="lista">
-                    <table>
-                            <tr>
-                                <td></td>
-                                <td></td>
-                                <td></td>
-                                <td></td>
-                                <td></td>
-                                <td></td>
-                            </tr>
-                        </table>
-                        
-                    </div>
-
-                    <div class="lista">
-                    <table>
-                            <tr>
-                                <td></td>
-                                <td></td>
-                                <td></td>
-                                <td></td>
-                                <td></td>
-                                <td></td>
-                            </tr>
-                        </table>
-                    </div>
-
-                    <div class="lista">
-                    <table>
-                            <tr>
-                                <td></td>
-                                <td></td>
-                                <td></td>
-                                <td></td>
-                                <td></td>
-                                <td></td>
-                            </tr>
-                        </table>
-                    </div>
-                    
                 </div>
+
+                    <div className="autor">
+                        <ul class="lista">
+                            <li></li>
+                            <li></li>
+                            <li></li>
+                            <li></li>
+                            <li></li>
+                            <li></li>
+                        </ul>
+                    </div>
+
+                    
 	
             </main>
         );
