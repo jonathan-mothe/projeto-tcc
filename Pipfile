@@ -8,6 +8,7 @@ djangorestframework = "*"
 psycopg2-binary = "*"
 django = "*"
 django-jet = "*"
+ipdb = "*"
 
 [dev-packages]
 django-extensions = "*"
