@@ -1,5 +1,6 @@
 #   Papyrus
-###     Repositório de trabalhos acadêmicos (em construção)
+
+###     Repositório de trabalhos acadêmicos
 
 
 ######    Trabalho apresentado na disciplina de Projeto TCC EM SISTEMAS DE INFORMAÇÃO da Universidade Estácio de Sá, como requisito parcial para obtenção do grau de Bacharel em Sistemas de Informação.
@@ -34,10 +35,3 @@ Papyrus propõe uma mudança de paradigma, de forma que os usuários não sejam 
 ### Modelo Conceitual de Dados (MER)
 
 ![img3](https://user-images.githubusercontent.com/35958354/70747259-5e75a900-1d06-11ea-9e3e-fed6729f1598.png)
-
-
-
-
-
-
-
